@@ -81,4 +81,4 @@ I had some difficulty aligning the logo and navigation links properly. I solved 
 
 GitHub Repository
 
-GitHub Repository: https://github.com/maharjansujitaaa/htmlcss 
+GitHub Repository: (https://github.com/maharjansujitaaa/htmlcss)
