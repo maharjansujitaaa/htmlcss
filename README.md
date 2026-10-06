@@ -43,10 +43,10 @@ Screenshots
 2. Card Design
 ![Card Design](ss/card.png)
 
-3. Card Layout
+3. Card Layout1
 ![Card Layout](ss/card-layout1.png)
 
-4. Card Layout
+4. Card Layout2
 ![Card Layout](ss/card-layout2.png)
 
 5.Responsive Design
@@ -81,4 +81,4 @@ I had some difficulty aligning the logo and navigation links properly. I solved 
 
 GitHub Repository
 
-GitHub Repository: 
+GitHub Repository: https://github.com/maharjansujitaaa/htmlcss 
