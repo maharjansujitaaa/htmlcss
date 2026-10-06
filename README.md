@@ -44,10 +44,10 @@ Screenshots
 ![Card Design](ss/card.png)
 
 3. Card Layout1
-![Card Layout](ss/card-layout1.png)
+![Card Layout1](ss/card-layout1.png)
 
 4. Card Layout2
-![Card Layout](ss/card-layout2.png)
+![Card Layout2](ss/card-layout2.png)
 
 5.Responsive Design
 ![Responsive Design](ss/responsive-design.png)
