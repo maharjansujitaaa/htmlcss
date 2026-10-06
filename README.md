@@ -43,8 +43,8 @@ Screenshots
 2. Card Design
 ![Card Design](ss/card.png)
 
-3. Card Layout1
-![Card Layout1](ss/card-layout1.png)
+3. Card Layout
+![Card Layout](ss/card-layout.png)
 
 4. Card Layout2
 ![Card Layout2](ss/card-layout2.png)
