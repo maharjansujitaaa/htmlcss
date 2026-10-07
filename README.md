@@ -82,3 +82,7 @@ I had some difficulty aligning the logo and navigation links properly. I solved 
 GitHub Repository
 
 GitHub Repository: (https://github.com/maharjansujitaaa/htmlcss)
+
+AI Use Disclosure
+
+I used chatgpt as a learning and development support tool during this project. i used it to understand html and css concepts, explain code, and troubleshoot problem. i reviewed and apply the code while developing the website.
